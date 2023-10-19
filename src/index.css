@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  justify-content: center;
+  max-width: 200px;
+  margin: 0 auto;
+}
+
+
+.tasks__wrapper {
+  display: flex;
+  width: 200px;
+  margin-top: 30px;
+}
+
+.task__title {
+  margin-left: 10px;
+}
+
+.task__delete {
+  margin-left: auto;
+  cursor: pointer;
+}
+
